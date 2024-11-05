@@ -1,0 +1,5 @@
+print('dal makni-50-arabikas')
+print('chicken pakoda-50-kiit square')
+print('mango juice-20-patia sq')
+print('lassi-80-saheed nagar')
+print('mutton-60-infocity square')

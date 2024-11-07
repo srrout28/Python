@@ -1,0 +1,10 @@
+#count no of lines in a file
+#count no of words in file
+#count no of character in a file
+#count no of space
+#count no of special symbols
+#count small letters
+#count cap numbers
+#count number
+#count vowels
+#count consonant

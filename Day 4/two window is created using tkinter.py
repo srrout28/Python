@@ -1,0 +1,10 @@
+from  tkinter import *
+win=Tk()
+win1=Tk()
+win.configure(bg='red')
+win1.configure(bg='green')
+win.title('hello python')
+win.geometry("300x200+10+10")
+win.geometry("300x200+400+30")
+win1.mainloop()
+win.mainloop()
